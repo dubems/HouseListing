@@ -39,7 +39,8 @@ class FlyerRepository implements ICrudRepository
 
     public function getAllFlyers(User $user){
 
-        return Flyer::where('user_id',$user->id)->get();
+        return Flyer::where('user_id',$user->id)
+            ->get();
 
     }
 
