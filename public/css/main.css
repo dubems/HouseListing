@@ -1,0 +1,32 @@
+img.house-image{
+
+    padding:3px;
+
+}
+
+.row-dubem{
+    margin-top:125px;
+}
+body{
+    background-color: #F2F3F7;
+
+padding-top: 70px;
+}
+.heading{
+    text-align:center;
+}
+
+.images{
+    background-color: #ffffff;
+}
+
+.flyer_info{
+    background-color: #ffffff;
+    padding:15px;
+
+}
+
+.box-shadows{
+   box-shadow:1px 2px 9px 1px rgba(0,0,0,0.06);
+
+}
